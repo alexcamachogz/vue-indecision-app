@@ -1,6 +1,7 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <Counter/>
+  <img alt="Vue logo" src="./assets/logo.png" />
+  <!-- <Counter v-bind:start="10" /> -->
+  <Counter :start="200"/>
 </template>
 
 <script>
