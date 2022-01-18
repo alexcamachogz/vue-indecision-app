@@ -85,4 +85,4 @@ yarn lint
 
 > This project was developed in 
 > [Fernando Herrera](https://fernando-herrera.com/)'s
-> [React: De cero a experto (Hooks y MERN)](https://www.udemy.com/course/vuejs-fh/) course.
+> [Vue.js: De cero a experto](https://www.udemy.com/course/vuejs-fh/) course.
