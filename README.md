@@ -27,7 +27,7 @@ You can ask your yes or no question to the app, and it will answer you using [ye
   Available Scripts
 </h2>
 
-### Project setup
+#### Project setup
 
 ```
 yarn install
